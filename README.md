@@ -1,8 +1,6 @@
 # -github-workshop-assessment
 
-# Hello, I'm DASARI JYOTHI VENKATA SAI SRINIVAS
-
- **College:** Kalasalingam University  
-
- **Date:** 10 February 2026  
+# Name: DASARI JYOTHI VENKATA SAI SRINIVAS
+** College: Kalasalingam University
+** Workshop Date: 10 February 2026
 
